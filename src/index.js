@@ -92,4 +92,6 @@ const getWeatherData = async () => {
     }
 }
 
+// add your files in your folder
+
 document.body.addEventListener("load", getWeatherData());
